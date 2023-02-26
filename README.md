@@ -14,7 +14,7 @@ A talented and creative Frontend Web Developer with an eye for detail looking an
   <a href="https://www.w3schools.com/css/"><img align="left" alt="CSS" title="CSS" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" /></a>
   <a href="https://jquery.com/"><img align="left" alt="JQuery" title="JQuery" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" /></a>
   <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" /></a>
-  <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML" title="HTML" width="51px" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" /></a>
+  <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML" title="HTML" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" /></a>
   <a href="https://mui.com/core/"><img align="left" alt="Material UI" title="Material UI" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" /></a>
   <a href="https://vitejs.dev/"><img align="left" alt="" title="" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" /></a>
   <a href="https://sass-lang.com/"><img align="left" alt="" title="" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" /></a>
