@@ -21,8 +21,7 @@ A talented and creative Frontend Web Developer with an eye for detail looking an
   <a href="https://www.java.com/en/"><img align="left" alt="" title="" width="21px" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" /></a>
   
   
-  https://www.java.com/en/
-  https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg
+  
   <br>
   <br>
   
