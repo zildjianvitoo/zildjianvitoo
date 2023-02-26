@@ -27,5 +27,5 @@ A talented and creative Frontend Web Developer with an eye for detail looking an
   
 ### Reach me on
 - <a href="https://linkedin.com/in/zildjianvito/">LinkedIn</a>
-- zildjianvito.s@dicoding.com
+- zildjianvito.s@gmail.com
 - <a href="https://www.instagram.com/zildjianvitoo">Instagram</a>
