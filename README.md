@@ -3,7 +3,7 @@
 A talented and creative Frontend Web Developer with an eye for detail looking any element on a website. Has hands-on experience with UI/UX team who can work in agile environment and communicated well.
 
 - 🌱 I’m currently learning about Fullstack Web Development & Machine Learning Field
-- 💬 Feel free to ask me about web development or JavaScript
+- 💬 Feel free to ask me about Web Development and Machine Learning State of the Art Model
 - 📫 How to reach me: zildjianvito.s@gmail.com
 
 ### Tech Stack
